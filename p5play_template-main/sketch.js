@@ -6,6 +6,9 @@ function setup() {
 
 }
 
+
+//hey wassup 
+
 function draw() 
 {
    background(30);
